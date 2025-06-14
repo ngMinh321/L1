@@ -6,6 +6,9 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
+let name="QUACH NGOC MINH"
+let age="13"
+let school="Ispschool"
+print(name)
+print(age)
+print(school)
